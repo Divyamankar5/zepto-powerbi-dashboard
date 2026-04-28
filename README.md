@@ -40,6 +40,11 @@ This project presents an interactive Power BI dashboard analyzing Zepto's sales 
 
 ---
 
+## 📸 Dashboard Preview
+![Dashboard Preview](dashboard_preview.png)
+
+---
+
 ## 📌 How to Use
 1. Download the `.pbix` file
 2. Open in Power BI Desktop
