@@ -41,7 +41,7 @@ This project presents an interactive Power BI dashboard analyzing Zepto's sales 
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png.png)
 
 ---
 
